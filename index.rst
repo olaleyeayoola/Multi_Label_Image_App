@@ -1,0 +1,1 @@
+Mullab is a computer vision model that performs multi label prediction on images.
